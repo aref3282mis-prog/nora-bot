@@ -1,0 +1,3 @@
+python-telegram-bot[socks]==21.10
+google-generativeai
+Pillow
