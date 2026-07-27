@@ -1,3 +1,3 @@
-import threading
-from flask import Flask
-
+pytelegrambotapi
+google-generativeai
+flask
